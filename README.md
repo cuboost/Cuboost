@@ -6,7 +6,7 @@
 I mainly do Web 🕸️ development: I use HTML, CSS, and Javascript. However, I’m currently learning App 📱 and Game 🎮 development.
 
 ## Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cuboost&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cuboost&theme=radical)
 
 ## Languages
 [![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://html.spec.whatwg.org/multipage/)
