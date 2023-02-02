@@ -3,7 +3,9 @@
 👋 Hi, I’m the creator of Cuboost. I work alone to create simple things that can help us in our everyday life. I put all my creations on my [website](https://cuboost-website.web.app/).
 
 ## Languages
-I mainly do Web 🕸️ development: I use HTML, CSS, and Javascript. However, I’m currently learning App 📱 and Game 🎮 development.
+I mainly do Web 🕸️ development: I use HTML, CSS, and Javascript. I recently started learning React.
+
+In my free time, I’m learning App 📱 and Game 🎮 development.
 
 ## Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cuboost)
@@ -14,6 +16,7 @@ I mainly do Web 🕸️ development: I use HTML, CSS, and Javascript. However, I
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)](https://javascript.com)
 [![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)](https://www.python.org/)
 [![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?style=for-the-badge&logo=Kotlin&logoColor=white)](https://kotlinlang.org/)
+[![React](https://img.shields.io/badge/React%20-%2361DAFB.svg?&style=for-the-badge&logo=React&logoColor=white)](https://reactjs.org/)
 
 ## Browsers
 [![Google Chrome](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://google.com/chrome/)
