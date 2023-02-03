@@ -1,6 +1,6 @@
 # About Me
 
-👋 Hi, I’m the creator of Cuboost. I work alone to create simple things that can help us in our everyday life. I put all my creations on my [website](https://cuboost-website.web.app/).
+👋 Hi, I’m the creator of Cuboost. I work alone to create simple things that can help us in our everyday life. I put all my creations on my [website](https://cuboost-website.web.app/). My published website is currently a mess, and I am still working on my updated version...
 
 ## Languages
 I mainly do Web 🕸️ development: I use HTML, CSS, and Javascript. I recently started learning React.
