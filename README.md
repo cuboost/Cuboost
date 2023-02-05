@@ -3,9 +3,9 @@
 👋 Hi, I’m the creator of Cuboost. I work alone to create simple things that can help us in our everyday life. I put all my creations on my [website](https://cuboost-website.web.app/). My published website is currently a mess, and I am still working on my updated version...
 
 ## Languages
-I mainly do Web 🕸️ development: I use HTML, CSS, and Javascript. I recently started learning React.
+I mainly do Web 🕸️ development: I use HTML, CSS, and Javascript. I recently started learning React and Tailwind CSS.
 
-In my free time, I’m learning App 📱 and Game 🎮 development.
+In my free time, I’m learning App 📱 and Game 🎮 development. So I know a little bit of Kotlin to create Android apps, and C# for Unity Game development...
 
 ## Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cuboost)
@@ -16,7 +16,11 @@ In my free time, I’m learning App 📱 and Game 🎮 development.
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)](https://javascript.com)
 [![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)](https://www.python.org/)
 [![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?style=for-the-badge&logo=Kotlin&logoColor=white)](https://kotlinlang.org/)
+[![C#](https://img.shields.io/badge/C%20Sharp-239120.svg?style=for-the-badge&logo=C-Sharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+
+## Frameworks and Libraries
 [![React](https://img.shields.io/badge/React%20-%2361DAFB.svg?&style=for-the-badge&logo=React&logoColor=white)](https://reactjs.org/)
+[![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white)](https://tailwindcss.com/)
 
 ## Browsers
 [![Google Chrome](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://google.com/chrome/)
