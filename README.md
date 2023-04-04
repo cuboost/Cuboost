@@ -2,7 +2,7 @@
 
 👋 Hi, I’m the creator of Cuboost. I work alone to create simple things that can help us in our everyday life. I put all my creations on my [website](https://cuboost-website.web.app/). My published website is currently a mess, and I am still working on my updated version...
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=cuboost)](https://github.com/cuboost/)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=cuboost)](https://github.com/cuboost?tab=repositories)
 
 
 ## Languages
@@ -11,7 +11,7 @@ I mainly do Web 🕸️ development: I use HTML, CSS, and Javascript. I recently
 In my free time, I’m learning App 📱 and Game 🎮 development. So I know a little bit of Kotlin to create Android apps, and C# for Unity Game development...
 
 ## Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cuboost)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cuboost)](https://github.com/cuboost?tab=repositories)
 
 ## Languages
 [![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://html.spec.whatwg.org/multipage/)
