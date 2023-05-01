@@ -4,11 +4,11 @@
 
 <picture>
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=cuboost&theme=dark"
+  srcset="https://github-readme-stats.vercel.app/api?username=cuboost&theme=dark&hide_border=true&border_radius=20"
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=cuboost"
+  srcset="https://github-readme-stats.vercel.app/api?username=cuboost&border_radius=20"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img src="https://github-readme-stats.vercel.app/api?username=cuboost" />
@@ -23,11 +23,11 @@ In my free time, I’m learning App 📱 and Game 🎮 development. So I know a 
 ## Stats
 <picture>
 <source
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=cuboost&theme=dark"
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=cuboost&theme=dark&hide_border=true&border_radius=20&layout=compact"
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=cuboost"
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=cuboost&border_radius=20&layout=compact"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cuboost" />
