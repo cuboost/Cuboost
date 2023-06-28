@@ -1,6 +1,6 @@
 # About Me
 
-👋 Hi, I’m the creator of Cuboost. I work alone to create simple things that can help us in our everyday life. I put all my creations on my [website](cuboost.vercel.app). Note: my website is currently under development.
+👋 Hi, I’m the creator of Cuboost. I work alone to create simple things that can help us in our everyday life. I put all my creations on my [website](https://cuboost.vercel.app/).
 
 <picture>
 <source
