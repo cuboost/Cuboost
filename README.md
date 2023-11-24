@@ -16,9 +16,9 @@
 
 
 ## Languages
-I mainly do Web 🕸️ development: I use HTML, CSS, and Javascript. I recently started learning React and Tailwind CSS.
+I mainly do Web 🕸️ development: I am React developer using Next.JS. However, I recently started learning Dart because I grew interested in Flutter.
 
-In my free time, I’m learning App 📱 and Game 🎮 development. So I know a little bit of Kotlin to create Android apps, and C# for Unity Game development...
+In my free time, I’m learning App 📱 and Game 🎮 development. So I know a little bit of Dart (still in progress), and C# for Unity Game development...
 
 ## Stats
 <picture>
@@ -37,13 +37,13 @@ In my free time, I’m learning App 📱 and Game 🎮 development. So I know a 
 [![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://html.spec.whatwg.org/multipage/)
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://w3.org/Style/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)](https://javascript.com)
-[![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)](https://www.python.org/)
-[![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?style=for-the-badge&logo=Kotlin&logoColor=white)](https://kotlinlang.org/)
 [![C#](https://img.shields.io/badge/C%20Sharp-239120.svg?style=for-the-badge&logo=C-Sharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[![Dart](https://img.shields.io/badge/Dart-0175C2.svg?style=for-the-badge&logo=Dart&logoColor=white)](https://dart.dev/)
 
 ## Frameworks and Libraries
 [![Next.JS](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
 [![React](https://img.shields.io/badge/React%20-%2361DAFB.svg?&style=for-the-badge&logo=React&logoColor=white)](https://react.dev/)
+[![Flutter](https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)](https://flutter.dev/)
 [![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white)](https://tailwindcss.com/)
 [![Green Sock](https://img.shields.io/badge/GreenSock-88CE02.svg?style=for-the-badge&logo=GreenSock&logoColor=white)](https://greensock.com/)
 
