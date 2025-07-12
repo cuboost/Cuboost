@@ -3,6 +3,7 @@
 👋 Hi, I was out of names so I decided to call myself after my first Unity game, Cuboost (What can I say, I was out of ideas). I work alone to create simple things that can help us in our everyday life. I put all my creations on my [website](https://cuboost.vercel.app/).
 
 (Please don't look at my stats, last time I checked it was a C... 😔)
+
 <picture>
 <source
   srcset="https://github-readme-stats.vercel.app/api?username=cuboost&theme=dark&hide_border=true&border_radius=20"
