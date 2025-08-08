@@ -1,6 +1,6 @@
 # About Me
 
-👋 Hi, I was out of names so I decided to call myself after my first Unity game, Cuboost (What can I say, I was out of ideas). I work alone to create simple things that can help us in our everyday life. I put all my creations on my [website](https://cuboost.vercel.app/).
+👋 Hi, I was out of names so I decided to call myself after my first Unity game, Cuboost (What can I say, I was out of ideas). I try to create simple things that might help us in our daily lives. I put some of my creations on my [website](https://cuboost.vercel.app/).
 
 (Please don't look at my stats, last time I checked it was a C... 😔)
 
